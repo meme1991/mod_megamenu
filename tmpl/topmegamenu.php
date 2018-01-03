@@ -17,7 +17,7 @@ defined('_JEXEC') or die;
 		<?php if(!is_null($params->get('toplink'))) : ?>
 			<?php $id = $params->get('toplink'); ?>
 			<?php $toplink = JRoute::_("index.php?Itemid=$id"); ?>
-			<?php $module->title = "<a href='".$toplink."' title='".$module->title."'>".$module->title." <i class=\"fa fa-chevron-right hidden-md-down pl-1\" aria-hidden=\"true\"></i></a>"; ?>
+			<?php $module->title = "<a href='".$toplink."' title='".$module->title."'>".$module->title."<i class=\"fas fa-chevron-right ml-2\"></i></a>"; ?>
 		<?php else : ?>
 			<?php $module->title = $module->title ?>
 		<?php endif; ?>
