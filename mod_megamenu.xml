@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1" client="site" method="upgrade">
 	<name>mod_megamenu</name>
-	<author>Joomla! Project</author>
-	<creationDate>July 2004</creationDate>
-	<copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<author>SPEDI srl</author>
+	<creationDate>Dicembre 2017</creationDate>
+	<copyright>Copyright (C) SPEDI srl</copyright>
+	<license>GNU/GPL license: http://www.gnu.org/copyleft/gpl.html</license>
 	<authorEmail>admin@joomla.org</authorEmail>
 	<authorUrl>www.joomla.org</authorUrl>
-	<version>3.0.0</version>
+	<version>1.0.0</version>
 	<description>MOD_MEGAMENU_XML_DESCRIPTION</description>
 
 	<files>

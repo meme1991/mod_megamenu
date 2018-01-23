@@ -1,11 +1,11 @@
 <?php
-/**
- * @package     Joomla.Site
- * @subpackage  mod_menu
- *
- * @copyright   Copyright (C) 2005 - 2014 Open Source Matters, Inc. All rights reserved.
- * @license     GNU General Public License version 2 or later; see LICENSE.txt
- */
+# @Author: SPEDI srl
+# @Date:   23-01-2018
+# @Email:  sviluppo@spedi.it
+# @Last modified by:   SPEDI srl
+# @Last modified time: 23-01-2018
+# @License: GNU/GPL license: http://www.gnu.org/copyleft/gpl.html
+# @Copyright: Copyright (C) SPEDI srl
 
 defined('_JEXEC') or die;
 ?>
